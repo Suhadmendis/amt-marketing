@@ -11,7 +11,7 @@ $servername = '138.128.174.10';
 $username = 'amttran1';
 $password = 'pY8v4R5[8pXk!V';
 $port = 10060;
-$dbname = 'amttran1_amt';
+$dbname = 'amttran1_mktg';
 
 
 // $servername = 'localhost';

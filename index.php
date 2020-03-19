@@ -59,7 +59,7 @@ if (isset($_COOKIE[$cookie_name])) {
                 <div>
                     <!--<img style="align-content: center" class="img-responsive" src="img/Mas_Holdings_Logo.png">-->
                     <div class="form-group">
-                        <h1 id="topic"><center>AMT TRANSPORT SERVICE</center></h1>
+                        <h1 id="topic"><center>AMT MARKETING</center></h1>
                     </div>
                 </div>
                 <!--<h3><center>MAS HOLDINGS</center></h3>-->
